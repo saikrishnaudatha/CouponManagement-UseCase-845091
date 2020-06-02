@@ -1,0 +1,77 @@
+﻿@model IEnumerable<MVC_UI.Models.CouponDetails>
+
+@{
+    ViewData["Title"] = "GetCoupons";
+}
+
+<h1>GetCoupons</h1>
+
+<p>
+    <a asp-action="CouponRegister">Create New Coupon</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CouponId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CouponNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CouponStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CouponStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CouponExpiredDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CouponId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CouponNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CouponStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CouponStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CouponExpiredDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "UpdateCoupon", new { id=item.CouponId }) |
+                @Html.ActionLink("Details", "GetCouponById", new { id=item.CouponId }) |
+                @Html.ActionLink("Delete", "DeleteCoupon", new {id=item.CouponId})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

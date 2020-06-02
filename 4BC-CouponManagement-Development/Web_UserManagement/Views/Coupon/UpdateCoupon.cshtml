@@ -1,0 +1,63 @@
+﻿@model MVC_UI.Models.CouponDetails
+
+@{
+    ViewData["Title"] = "UpdateCoupon";
+}
+
+<h1>UpdateCoupon</h1>
+
+<h4>CouponDetails</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateCoupon">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CouponId" class="control-label" hidden ></label>
+                <input asp-for="CouponId" class="form-control" hidden />
+                <span asp-validation-for="CouponId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CouponNumber" class="control-label"></label>
+                <input asp-for="CouponNumber" class="form-control" />
+                <span asp-validation-for="CouponNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CouponStatus" class="control-label"></label>
+                <input asp-for="CouponStatus" class="form-control" />
+                <span asp-validation-for="CouponStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CouponStartDate" class="control-label" ></label>
+                <input asp-for="CouponStartDate" class="form-control" readonly="readonly" />
+                <span asp-validation-for="CouponStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CouponExpiredDate" class="control-label"></label>
+                <input asp-for="CouponExpiredDate" class="form-control" />
+                <span asp-validation-for="CouponExpiredDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreateDate" class="control-label" hidden></label>
+                <input asp-for="CreateDate" class="form-control" hidden/>
+                <span asp-validation-for="CreateDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <input asp-for="UserId" class="form-control" readonly="readonly" />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "CouponsByUserId", new { id = Model.UserId }) |
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

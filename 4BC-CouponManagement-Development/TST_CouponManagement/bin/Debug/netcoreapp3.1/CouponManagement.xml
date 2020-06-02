@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CouponManagement</name>
+    </assembly>
+    <members>
+        <member name="M:CouponManagement.CouponController.AddCoupon(CouponManagementDBEntity.Models.CouponDetails)">
+            <summary>
+            Adding coupon of particular user
+            </summary>
+            <param name="coupon"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.CouponController.DeleteCoupon(System.Int32)">
+            <summary>
+             Deleting coupon based upon couponid
+            </summary>
+            <param name="couponId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.CouponController.GetAllCoupons(System.Int32)">
+            <summary>
+            displays all coupons of  the particular user
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.CouponController.UpdateCoupon(CouponManagementDBEntity.Models.CouponDetails)">
+            <summary>
+            update coupon details
+            </summary>
+            <param name="coupon"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.CouponController.Statusupdate">
+            <summary>
+             updating the status of the coupon
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.CouponController.GetCoupons">
+            <summary>
+            displays all the coupons
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.CouponController.GetCouponById(System.Int32)">
+            <summary>
+            displays coupons based on the coupon id
+            </summary>
+            <param name="couponId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.Helper.CouponManagementHelper.AddCoupon(CouponManagementDBEntity.Models.CouponDetails)">
+            <summary>
+            adding coupon
+            </summary>
+            <param name="coupon"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.Helper.CouponManagementHelper.DeleteCoupon(System.Int32)">
+            <summary>
+            deleting  coupon based on couponid
+            </summary>
+            <param name="couponId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.Helper.CouponManagementHelper.GetAllCoupon(System.Int32)">
+            <summary>
+            Getting all coupons of a particular user
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.Helper.CouponManagementHelper.Status">
+            <summary>
+            updating coupon status
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CouponManagement.Helper.CouponManagementHelper.UpdateCoupon(CouponManagementDBEntity.Models.CouponDetails)">
+            <summary>
+            Updating coupon details
+            </summary>
+            <param name="coupon"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

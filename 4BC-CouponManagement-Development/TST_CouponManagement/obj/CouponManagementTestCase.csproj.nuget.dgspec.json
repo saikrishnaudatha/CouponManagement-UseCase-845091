@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CouponManagement3\\4BC-CouponManagement\\TST_CouponManagement\\CouponManagementTestCase.csproj": {}
+  },
+  "projects": {
+    "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
+        "projectName": "CouponManagementDBEntity",
+        "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj",
+        "packagesPath": "C:\\Users\\madhurip\\.nuget\\packages\\",
+        "outputPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\madhurip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\SHR_Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\SHR_Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\SHR_Model.csproj",
+        "projectName": "SHR_Model",
+        "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\SHR_Model.csproj",
+        "packagesPath": "C:\\Users\\madhurip\\.nuget\\packages\\",
+        "outputPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\madhurip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_CouponManagement\\CouponManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_CouponManagement\\CouponManagement.csproj",
+        "projectName": "CouponManagement",
+        "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_CouponManagement\\CouponManagement.csproj",
+        "packagesPath": "C:\\Users\\madhurip\\.nuget\\packages\\",
+        "outputPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_CouponManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\madhurip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj": {
+                "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_UserManagement\\UserManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "projectName": "UserManagement",
+        "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_UserManagement\\UserManagement.csproj",
+        "packagesPath": "C:\\Users\\madhurip\\.nuget\\packages\\",
+        "outputPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_UserManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\madhurip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj": {
+                "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj"
+              },
+              "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\SHR_Model.csproj": {
+                "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_Model\\SHR_Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CouponManagement3\\4BC-CouponManagement\\TST_CouponManagement\\CouponManagementTestCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CouponManagement3\\4BC-CouponManagement\\TST_CouponManagement\\CouponManagementTestCase.csproj",
+        "projectName": "CouponManagementTestCase",
+        "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\TST_CouponManagement\\CouponManagementTestCase.csproj",
+        "packagesPath": "C:\\Users\\madhurip\\.nuget\\packages\\",
+        "outputPath": "D:\\CouponManagement3\\4BC-CouponManagement\\TST_CouponManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\madhurip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj": {
+                "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SHR_DBEntity\\CouponManagementDBEntity.csproj"
+              },
+              "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_CouponManagement\\CouponManagement.csproj": {
+                "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_CouponManagement\\CouponManagement.csproj"
+              },
+              "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_UserManagement\\UserManagement.csproj": {
+                "projectPath": "D:\\CouponManagement3\\4BC-CouponManagement\\SVC_UserManagement\\UserManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

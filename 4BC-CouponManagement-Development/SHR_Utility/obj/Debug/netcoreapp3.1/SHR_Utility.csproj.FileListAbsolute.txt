@@ -1,0 +1,89 @@
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\GitProject2\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+G:\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+G:\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+G:\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+G:\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+G:\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+G:\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+G:\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+G:\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+G:\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\GitProject\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\Friends\proect coupon\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+E:\CouponManagement-CaseStudy\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\clone\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+F:\clone\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\clone\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\clone\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+F:\clone\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+F:\clone\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+F:\clone\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+F:\clone\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\clone\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+G:\CouponManagementA\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+F:\CouponManagement\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.deps.json
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\bin\Debug\netcoreapp3.1\SHR_Utility.pdb
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csprojAssemblyReference.cache
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.csproj.CoreCompileInputs.cache
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfoInputs.cache
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.AssemblyInfo.cs
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.dll
+D:\CouponManagement3\4BC-CouponManagement\SHR_Utility\obj\Debug\netcoreapp3.1\SHR_Utility.pdb

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManagement</name>
+    </assembly>
+    <members>
+        <member name="M:UserManagement.Helper.UserManagementHelper.GetAllUsers">
+            <summary>
+            displays all users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.GetIdByName(System.String)">
+            <summary>
+            Get Id by using userName
+            </summary>
+            <param name="userName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.GetUser(System.Int32)">
+            <summary>
+            getting user by id 
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.UpdateUser(CouponManagementDBEntity.Models.UserDetails)">
+            <summary>
+            updating user details
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.UserLogin(SHR_Model.Models.UserLogin)">
+            <summary>
+            validating user details for login
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Helper.UserManagementHelper.UserRegister(CouponManagementDBEntity.Models.UserDetails)">
+            <summary>
+            registering new user
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.UserRegister(CouponManagementDBEntity.Models.UserDetails)">
+            <summary>
+            To Register the User Details
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.UserLogin(SHR_Model.Models.UserLogin)">
+            <summary>
+            To validate whether the user is authorized or not
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.GetUser(System.Int32)">
+            <summary>
+            To view the profile of the user
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.UpdateUser(CouponManagementDBEntity.Models.UserDetails)">
+            <summary>
+            To update the user profile
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.GetAllUsers">
+            <summary>
+            To view the all users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.UserController.GetIdByName(System.String)">
+            <summary>
+            Get Id by using userName
+            </summary>
+            <param name="userName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
